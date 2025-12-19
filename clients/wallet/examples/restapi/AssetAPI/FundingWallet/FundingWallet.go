@@ -9,7 +9,7 @@ import (
 	"github.com/binance/binance-connector-go/common/common"
 )
 
-func main() {
+func main()100{
 	FundingWallet()
 }
 
